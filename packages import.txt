@@ -1,0 +1,10 @@
+langchain
+langchain-classic
+langchain-google-genai
+langchain-chroma
+langchain-community
+langchain_text_splitters
+pandas
+openpyxl
+streamlit
+pypdf
